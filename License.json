@@ -1,0 +1,60 @@
+{
+    "card_id": "wMOp41qN70",
+    "card_coords": [
+        [
+            [
+                2,
+                4
+            ],
+            [
+                942,
+                0
+            ],
+            [
+                942,
+                608
+            ],
+            [
+                2,
+                602
+            ]
+        ]
+    ],
+    "card_attributes": [
+        "card-front",
+        "full card image",
+        "upright"
+    ],
+    "card_regions": [
+        {
+            "region_id": "l7xJY1l8u7",
+            "region_type": "photo",
+            "region_attributes": [
+                "main",
+                "rectangular"
+            ],
+            "region_coords": [
+                [
+                    [
+                        36,
+                        115
+                    ],
+                    [
+                        299,
+                        118
+                    ],
+                    [
+                        301,
+                        461
+                    ],
+                    [
+                        28,
+                        457
+                    ]
+                ]
+            ]
+        }
+    ],
+    "img_path": "/content/wMOp41qN70.jpg",
+    "new_img_path": "/content/generated_id_cards/wMOp41qN70.jpg"
+}
